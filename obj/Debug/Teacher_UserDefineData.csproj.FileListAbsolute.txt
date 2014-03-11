@@ -1,0 +1,11 @@
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\Teacher_UDD\Teacher_UserDefineData.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\Teacher_UDD\Teacher_UserDefineData.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csprojResolveAssemblyReference.cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.ImportExport.ExportStudentV2.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.ImportExport.ImportStudentV2.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.Properties.Resources.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.SetUserDefineDataForm.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.UserDefineDataItem.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csproj.GenerateResource.Cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.pdb
