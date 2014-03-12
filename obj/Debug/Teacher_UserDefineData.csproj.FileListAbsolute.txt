@@ -9,3 +9,13 @@ E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\UserDe
 E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csproj.GenerateResource.Cache
 E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.dll
 E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.pdb
+E:\github\NTU_EMBA\Teacher_UserDefineData\bin\Debug\Teacher_UserDefineData.dll
+E:\github\NTU_EMBA\Teacher_UserDefineData\bin\Debug\Teacher_UserDefineData.pdb
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.ImportExport.ExportStudentV2.resources
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.ImportExport.ImportStudentV2.resources
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.Properties.Resources.resources
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.SetUserDefineDataForm.resources
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.UserDefineDataItem.resources
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csproj.GenerateResource.Cache
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.dll
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.pdb
