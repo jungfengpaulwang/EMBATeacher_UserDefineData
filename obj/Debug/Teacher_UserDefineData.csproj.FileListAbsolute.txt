@@ -19,3 +19,4 @@ E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.UserDefineDat
 E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csproj.GenerateResource.Cache
 E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.dll
 E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.pdb
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csprojResolveAssemblyReference.cache
