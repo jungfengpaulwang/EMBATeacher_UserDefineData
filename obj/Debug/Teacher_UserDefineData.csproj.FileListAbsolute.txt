@@ -11,6 +11,7 @@ E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teache
 E:\TFServer2013\ischoolteam\ischool_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.pdb
 E:\github\NTU_EMBA\Teacher_UserDefineData\bin\Debug\Teacher_UserDefineData.dll
 E:\github\NTU_EMBA\Teacher_UserDefineData\bin\Debug\Teacher_UserDefineData.pdb
+E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.csprojResolveAssemblyReference.cache
 E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.ImportExport.ExportStudentV2.resources
 E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\UserDefineData.ImportExport.ImportStudentV2.resources
 E:\github\NTU_EMBA\Teacher_UserDefineData\obj\Debug\Teacher_UserDefineData.Properties.Resources.resources
